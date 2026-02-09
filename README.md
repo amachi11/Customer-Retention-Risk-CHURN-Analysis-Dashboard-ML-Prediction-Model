@@ -38,3 +38,11 @@ Matplotlib & Seaborn – Model evaluation and feature importance visualization
 
 Jupyter Notebook – Interactive model development and experimentation
 
+
+IMAGE OF THE DASHBOARD
+Screenshot 2026-02-09 034553.png
+
+
+IMAGE OF MACHINE LEARNING MODEL 
+
+
