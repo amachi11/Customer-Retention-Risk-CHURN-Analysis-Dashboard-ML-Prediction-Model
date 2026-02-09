@@ -1,7 +1,7 @@
 # Customer-Retention-Risk-CHURN-Analysis-Dashboard-ML-Prediction-Model
 An end-to-end analytics project using SQL Server (SSMS) for ETL and data modeling, Power BI for interactive dashboards, and Python (Pandas, NumPy, Scikit-learn) to build a Random Forest model that predicts customer attrition and identifies key retention drivers.
 
-Brief Step-by-Step Process
+  STEP BY STEP PROCESS
 ETL & Data Modeling (SQL Server / SSMS)
 
 Used SQL Server to ingest raw CSV data into staging tables, perform data validation, handle missing values, standardize fields, and create clean production tables and views for analytics and reporting.
@@ -20,7 +20,7 @@ Prediction & Insights Delivery
 
 Applied the trained model to new customer data, generated attrition predictions, exported results, and integrated predicted at-risk customers back into Power BI for actionable insights.
 
-Tech Stack & Usage
+ TECH STACK AND USAGE 
 
 SQL Server / SSMS – ETL pipeline, data cleaning, normalization, and creation of analytical views
 
