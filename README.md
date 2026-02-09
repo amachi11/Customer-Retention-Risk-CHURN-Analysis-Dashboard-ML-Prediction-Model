@@ -40,9 +40,12 @@ Jupyter Notebook – Interactive model development and experimentation
 
 
 IMAGE OF THE DASHBOARD
-Screenshot 2026-02-09 034553.png
+<img width="1148" height="650" alt="image" src="https://github.com/user-attachments/assets/c8853199-20d9-4f18-a153-f3316f7d546e" />
+
 
 
 IMAGE OF MACHINE LEARNING MODEL 
+<img width="1152" height="646" alt="image" src="https://github.com/user-attachments/assets/abc76b36-6d77-4530-9226-ca16d62ef6fd" />
+
 
 
